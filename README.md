@@ -3,9 +3,9 @@
 ---
 
 ##  Daftar Isi :
-- [ Abstract](#abstract)
-- [ Override](#override)
-- [ Overload](#overload)
+- [ Abstract](https://github.com/laurazakkia/Tugas-Pertemuan-Ketiga/blob/main/Kendaraan.java)
+- [ Override](https://github.com/laurazakkia/Tugas-Pertemuan-Ketiga/blob/main/Motor.java)
+- [ Overload](https://github.com/laurazakkia/Tugas-Pertemuan-Ketiga/blob/main/Motor.java)
   
 ---
 
