@@ -1,4 +1,4 @@
-# 📚 Konsep Pemrograman Berbasis Obyek - Pertemuan Ketiga
+# Konsep Pemrograman Berbasis Obyek - Pertemuan Ketiga
 
 ---
 
